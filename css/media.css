@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) and (max-width : 991px) { .theimg { width: 20rem !important; } } @media screen and (min-width: 100px) and (max-width: 991px ) { .thetextalign { text-align: center !important; } } @media screen and (min-width: 560px) and (max-width: 767px) { .cusheader { font-size: 4rem; } header nav ul li a { width: 100% !important; text-align: left; } .header { padding: 0px 30px ; } .custombtnstyle { background-color : #302e42 !important ; } } @media screen and (min-width: 100px) and (max-width: 1107px) { .header { padding: 0px 30px ; } header nav ul li a { width: 100% !important; text-align: left; } .custombtnstyle {background-color: #032e42 !important;} } @media screen and (min-width: 100px) and (max-width: 559px) { .cusheader { font-size: 4rem; } } @media screen and (min-width: 100px) and (max-width: 459px) { .trans{transform: scale(1.2);} .shapeimg { top: -59px;  } .cusheader { font-size: 3rem; } } @media screen and (min-width: 100px) and (max-width: 359px) { .cusheader { font-size: 2rem; } } @media screen and (min-width: 100px) and (max-width: 767px) { header nav ul li a { text-align: left !important; color: #333 !important; } .mobilenav {  padding: 20px !important;border-radius: 10px !important;background: #fff !important } } @media screen and (min-width: 100px) and (max-width: 305px) { .thenone { display: none; } }
+@media screen and (min-width: 100px) and ( max-width: 418px) {
+	.navbar-brand {
+			width: 49%;
+	}
+}
+@media screen and (min-width: 280px) and ( max-width: 379px) {
+	.navbar-brand {
+			width: 33%;
+	}
+}
