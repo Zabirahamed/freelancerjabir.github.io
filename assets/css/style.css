@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Obviously;
+    src: url(../font/Obviously.ttf);
+}
+.heading-global {
+    font-family: Obviously;
+}
